@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Image>
+    <File name="employee details">
+        employee1
+    </File name>
+    <File size>
+        30*50
+    </File size>
+     <Image resolution>
+        2000*4000
+    </Image resolution>
+    <Image name>
+        new employee
+    </Image name>
+     <No. of objects in the image>
+        5
+    </No. of objects in the image>
+    <Object resolution>
+        26
+    </Object resolution>
+</Image>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Details>
+    <File_name>
+       Image
+    </File_ name>
+    <File_size>
+       10MB
+    </File_size>
+     <Image_resolution>
+        2000*3000
+    </Image_resolution>
+    <Image_name>
+        Sky
+    </Image_name>
+     <Number_of_objects>
+         5
+    </Number_of_objects>
+    <object_resolution>
+         40
+    </object_resolution>
+</Details>
